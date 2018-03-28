@@ -31,6 +31,8 @@
         <div id="fileList"></div>
     </div>
 
+	<p>aaa</p>
+
     <script type="text/javascript">
         // 获取到了文件标记
         var fileMd5;
